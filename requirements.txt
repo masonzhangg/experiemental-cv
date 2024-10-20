@@ -1,0 +1,5 @@
+cvzone
+cv
+numpy
+ultralytics
+smbus2
